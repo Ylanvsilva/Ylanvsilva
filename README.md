@@ -2,8 +2,8 @@
   
 <div align="center">
  <a>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ylanvsilva&theme=blue-green"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ylanvsilva&theme=blue-green"/></>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Ylanvsilva&theme=blue-green"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ylanvsilva&theme=blue-green"/></>
 </a>
 </div>
 
