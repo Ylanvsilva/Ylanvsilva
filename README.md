@@ -2,8 +2,8 @@
   
 <div align="center">
  <a>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ylanvsilva&theme=blue-green"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ylanvsilva&theme=blue-green"/></>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ylanvsilva&theme=blue-green"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ylanvsilva&theme=blue-green"/></>
 </a>
 </div>
 
@@ -16,7 +16,7 @@
   
 ##
   
-<div style="display: inline_block"><br> 
+<div style="display: inline_block" valign="top" align="center"><br> 
   <a href="https://www.instagram.com/ylanvsilva/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/UtHTphrv" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ylan_vinicio@hotmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
