@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Desenvolvedor & estudante focado em aprimorar as habilidades em programação.</h3>
+<h4 align="left">Desenvolvedor & estudante focado em aprimorar as habilidades em programação.</h4>
 
 ###
 
-<h3 align="left">Linguagem:</h3>
+<h5 align="left">Linguagem:</h5>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">Contato:</h3>
+<h5 align="left">Contato:</h5>
 
 ###
 
