@@ -47,7 +47,7 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ylanvsilva&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ylanvsilva&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
